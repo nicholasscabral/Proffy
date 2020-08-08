@@ -30,6 +30,8 @@
 
     transition: background 200ms;
     margin-top: 3.2rem;
+
+    outline: none;
 }
 
 #search-teachers button:hover {
@@ -128,6 +130,12 @@
 
 .teacher-item footer .button:hover {
     background: var(--color-secondary-dark);
+}
+
+#page-study main .no-results {
+    max-width: 30rem;
+    margin: 12rem auto;
+    text-align: center;
 }
 
 
