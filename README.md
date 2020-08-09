@@ -44,7 +44,7 @@ npm run dev
 
 ```
 
-<h2> :computer: Web Screeshots </h2>
+<h2> :computer: Web Screenshots </h2>
 
 <img width="400" src="https://user-images.githubusercontent.com/63978033/89734738-522c2200-da34-11ea-81cc-4b37bf9f8686.png"> <img width="400" src="https://user-images.githubusercontent.com/63978033/89734748-607a3e00-da34-11ea-8e87-b509a0d90fa7.png">
 
