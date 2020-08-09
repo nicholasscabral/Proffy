@@ -46,14 +46,14 @@ npm run dev
 
 <h2> :computer: Web Screeshots </h2>
 
-<img width="400" alt="2020-08-09" src="https://user-images.githubusercontent.com/63978033/89733475-23aa4900-da2c-11ea-99c9-aecc24bbf2ac.png">  <img width="400" alt="2020-08-09 (3)" src="https://user-images.githubusercontent.com/63978033/89733492-3f155400-da2c-11ea-80d0-c2238bb8e1ec.png">
+<img width="400" alt="2020-08-09" src="https://user-images.githubusercontent.com/63978033/89733475-23aa4900-da2c-11ea-99c9-aecc24bbf2ac.png">  <img width="400" alt="2020-08-09 (3)" src="https://user-images.githubusercontent.com/63978033/89734597-7d624180-da33-11ea-9fec-486b5bb848d9.png">
 
 <img width="400" alt="2020-08-09 (1)" src="https://user-images.githubusercontent.com/63978033/89733483-345abf00-da2c-11ea-8512-9a55de1dcb98.png">  <img width="400" alt="2020-08-09 (4)" src="https://user-images.githubusercontent.com/63978033/89733498-48062580-da2c-11ea-98bd-5df7cfe91291.png">
 
 
 <h2> :iphone: Mobile Screenshots </h2>
 
-<img width="180" height="362" src="https://user-images.githubusercontent.com/63978033/89733179-18561e00-da2a-11ea-8f1e-75245946c0ed.jpeg"> <img width="180" src="https://user-images.githubusercontent.com/63978033/89733205-3a4fa080-da2a-11ea-8291-218beabb055d.jpeg"> <img width="180" src="https://user-images.githubusercontent.com/63978033/89733189-299f2a80-da2a-11ea-873b-18fd0843689d.jpeg"> <img width="180" src="https://user-images.githubusercontent.com/63978033/89733231-7256e380-da2a-11ea-905a-399d3394715d.jpeg">
+<img width="180" height="362" src="https://user-images.githubusercontent.com/63978033/89733179-18561e00-da2a-11ea-8f1e-75245946c0ed.jpeg"> <img width="180" src="https://user-images.githubusercontent.com/63978033/89733205-3a4fa080-da2a-11ea-8291-218beabb055d.jpeg"> <img width="180" src="https://user-images.githubusercontent.com/63978033/89734676-f06bb800-da33-11ea-847f-915cf0424379.jpeg"> <img width="180" src="https://user-images.githubusercontent.com/63978033/89733231-7256e380-da2a-11ea-905a-399d3394715d.jpeg">
 
 
 
