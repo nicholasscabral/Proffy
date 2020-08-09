@@ -46,9 +46,14 @@ npm run dev
 
 <h2> :computer: Web Screeshots </h2>
 
-<img width="400" alt="2020-08-09" src="https://user-images.githubusercontent.com/63978033/89733475-23aa4900-da2c-11ea-99c9-aecc24bbf2ac.png">  <img width="400" alt="2020-08-09 (3)" src="https://user-images.githubusercontent.com/63978033/89734597-7d624180-da33-11ea-9fec-486b5bb848d9.png">
+<img width="400" src="https://user-images.githubusercontent.com/63978033/89734738-522c2200-da34-11ea-81cc-4b37bf9f8686.png"> <img width="400" src="https://user-images.githubusercontent.com/63978033/89734748-607a3e00-da34-11ea-8e87-b509a0d90fa7.png">
 
-<img width="400" alt="2020-08-09 (1)" src="https://user-images.githubusercontent.com/63978033/89733483-345abf00-da2c-11ea-8512-9a55de1dcb98.png">  <img width="400" alt="2020-08-09 (4)" src="https://user-images.githubusercontent.com/63978033/89733498-48062580-da2c-11ea-98bd-5df7cfe91291.png">
+
+<img width="400" src="https://user-images.githubusercontent.com/63978033/89734762-81db2a00-da34-11ea-8f3f-e20809c9adea.png"> <img width="400" src="https://user-images.githubusercontent.com/63978033/89734767-90c1dc80-da34-11ea-94be-8778e8d16aa8.png">
+
+
+
+
 
 
 <h2> :iphone: Mobile Screenshots </h2>
