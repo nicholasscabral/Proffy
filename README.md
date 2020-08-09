@@ -26,8 +26,10 @@
 ```
 #clone the repository
 git clone https://github.com/nicholasscabral/Proffy.git
+
 #go into the folder
 cd Proffy/
+
 #install the dependencies
 npm install
 ```
